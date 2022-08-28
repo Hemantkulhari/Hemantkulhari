@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hemantkulhari
+- 👋 Hi, I’m @Hemant kulhari
 - 👀 I’m interested in AIML
 - 🌱 I’m currently learning "c"
 - 💞️ I’m looking to collaborate on resarch
